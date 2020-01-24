@@ -1,0 +1,26 @@
+.inline{
+    display: inline;
+}
+.center{
+    margin: auto;
+    width: 60%;
+    text-align: center;
+}
+#Clock{
+    font-size: 200%;    
+}
+html{
+    background: url(./Images/background.jpeg);
+    background-size: cover;
+    font-family: monospace;
+    font-size: 150%;
+}
+button{
+    background-color: none;
+    color:black;
+    border: none;
+    
+}
+#padd{
+    padding-left: 270px;
+}
